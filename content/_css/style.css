@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
   text-align: center;
   background-position: center;
-  background-image: url('/content/_imm/Marcarcerato.jpg');
+  background-image: url('./content/_imm/Marcarcerato.jpg');
 }
 
 .immagine-sunset {
@@ -22,7 +22,7 @@
   background-repeat: no-repeat;
   text-align: center;
   background-position: center;
-  background-image: url('/content/_imm/Sunset.PNG');
+  background-image: url('./content/_imm/Sunset.PNG');
 }
 
 .stilemio {
