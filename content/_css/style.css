@@ -3,11 +3,16 @@
   padding: 0;
 }
 
+h2 {
+  text-align: center;
+  margin: 10px 0px;
+}
+
 .immagine-marco {
   width: 100%;
   height: 100%;
   background-attachment: fixed;
-  background-size: 1200px;
+  background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   background-position: center;
@@ -18,7 +23,7 @@
   width: 100%;
   height: 100%;
   background-attachment: fixed;
-  background-size: 1200px;
+  background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   background-position: center;
@@ -45,5 +50,61 @@
 }
 
 #alt {
-  height: 40pc;
+  height: 350px;
 }
+
+#space {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(228, 21, 183);
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0;
+  ;
+}
+
+
+.immagine-uno {
+  width: 660px;
+  height: 600px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center;
+  background-image: url('../../Content/_imm/Marcarcerato.jpg');
+}
+
+.testo-uno {
+  width: 100%;
+  font-size: 35px;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  word-break: break-all;
+  padding: 0px 40px;
+}
+
+.immagine-due {
+  width: 660px;
+  height: 600px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center;
+  background-image: url('../../Content/_imm/Sunset.PNG');
+}
+
+
+
+
+/* .ff {
+  background: #2e2e;
+  padding: 10px 0;
+}
+
+.logosocial {
+  float: left;
+  margin: 0px 30px;
+} */
